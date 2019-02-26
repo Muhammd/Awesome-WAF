@@ -5,6 +5,10 @@
 
 ![Main Logo](images/how-wafs-work.png 'How wafs work')
 
+You can also contribute with a beer IRL or with `buymeacoffee.com`
+
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/muhammd)
+
 __A Concise Definition:__ A web application firewall is a security policy enforcement point positioned between a web application and the client endpoint. This functionality can be implemented in software or hardware, running in an appliance device, or in a typical server running a common operating system. It may be a stand-alone device or integrated into other network components. *(Source [PCI DSS IS 6.6](https://www.pcisecuritystandards.org/documents/information_supplement_6.6.pdf))*
 
 Feel free to [contribute](CONTRIBUTING.md).
