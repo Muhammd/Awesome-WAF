@@ -1,4 +1,4 @@
-# Awesome WAF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg "Awesome")](https://github.com/0xinfection/awesome-waf)
+# Awesome WAF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg "Awesome")](https://github.com/Muhammd/Awesome-WAF)
 > A curated list of awesome WAF stuff. 🔥
 >
 > __Foreword:__ This was originally my own collection on WAFs. I am open-sourcing it in the hope that it will be useful for pentesters and researchers out there. "The community just learns from each other." __#SharingisCaring__
@@ -2128,4 +2128,4 @@ X-Remote-Addr: 127.0.0.1
 - [Playing Around with WAFs](presentations/Playing%20Around%20with%20WAFs.pdf) - A small presentation about WAF profiling and playing around with them from [Defcon 16](http://www.defcon.org/html/defcon-16/dc-16-post.html).
 
 ## Credits & License:
-This work has been presented by [Infected Drake](https://twitter.com/0xInfection) [(0xInfection)](https://github.com/0xinfection) and is licensed under the [Apache 2.0 License](LICENSE). 
+This work has been presented by [Muhammd](http://mhaidari.com) [(Muhammd)](https://github.com/Muhammd/Awesome-WAF) and is licensed under the [Apache 2.0 License](LICENSE). 
